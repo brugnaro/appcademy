@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Senha de 8 digitos",
+    "subtitle": "Utilizada para acessar sua conta no celular e computador"
+  },
+  {
+    "id": "2",
+    "title": "Senha de 6 digitos",
+    "subtitle": "Utilizada para autorizar transações transfências e outros"
+  },
+  {
+    "id": "4",
+    "title": "Senha de 4 digitos",
+    "subtitle": "Utilizada em atendimento eletrônico transferencia pagamentos e outros"
+  },
+  {
+    "id": "5",
+    "title": "Código de acesso",
+    "subtitle": "Utilizada no caixa eletrônico confirma transações"
+  },
+  {
+    "id": "6",
+    "title": "Senha de 8 digitos",
+    "subtitle": "Utilizada para acessar sua conta no celular e computador"
+  },
+  {
+    "id": "7",
+    "title": "Senha de 6 digitos",
+    "subtitle": "Utilizada para autorizar transações transfências e outros"
+  },
+  {
+    "id": "8",
+    "title": "Senha de 4 digitos",
+    "subtitle": "Utilizada em atendimento eletrônico transferencia pagamentos e outros"
+  },
+  {
+    "id": "9",
+    "title": "Código de acesso",
+    "subtitle": "Utilizada no caixa eletrônico confirma transações"
+  }
+]
